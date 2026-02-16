@@ -7,6 +7,6 @@ one start index.php
 DateBase on JSON
 
 login: admin
-password: admin
+password: 1    or (admin) for next version
 testers_run start server php localhost dat file
 Prog-in-one-FILE-Tasker-version_04 (PHP & JSON) start server php localhost dat file
